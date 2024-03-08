@@ -1,0 +1,112 @@
+.love{
+    Width:600px;
+    Height:413px
+}
+.step-one{
+    Width:420.81px;
+    Height:370px;
+    position:relative;
+    top: -640px;
+    left: 480px;
+}
+
+.num-div{
+    width: 90px;
+    height: 80px;
+    z-index: 1;
+}
+.num-one{
+    position: relative;
+    left: 28px;
+    top: 15px;
+}
+
+.text-round{
+    width: 250px;
+    height: 250px;
+    box-shadow: 0px 0px 80px -20px #DCDCDC;
+    position: relative;
+    top: 20px;
+    right: 65px;
+    z-index: 2;
+    background-color: #ffff;
+}
+.text-round span{
+    font-size: small;
+    text-align: center;
+}
+.text-round svg{
+    position: relative;
+    top: -20px;
+    left: 62px;
+}
+
+
+ .num-div-two{
+    width: 90px;
+    height: 80px;
+    position: relative;
+    top: 50px;
+    left: 130px;
+}
+
+.num-two{
+    position: relative;
+    left: 22px;
+    top: 12px
+}
+
+.text-round-two{
+    width: 250px;
+    height: 250px;
+    box-shadow: 0px 0px 80px -20px #DCDCDC;
+    padding-left: 100px;
+    position: absolute;
+    /* top: -385px; */
+    left: 220px;
+    z-index: 2;
+    background-color: #ffff; 
+} 
+.text-round-two span{
+    font-size: small;
+    text-align: center;
+    
+}
+.text-round-two svg{
+    position: relative;
+    top: -20px;
+    left: 62px;
+}
+
+.num-three{
+    position: relative;
+    left: 22px;
+    top: 12px
+}
+.text-round-three{
+    width: 250px;
+    height: 250px;
+    box-shadow: 0px 0px 80px -20px #DCDCDC;
+    position: relative;
+    /* top: -720px; */
+    left: -60px;
+    z-index: 2;
+    background-color: #ffff;
+}
+.num-div-three{
+    width: 90px;
+    height: 80px;
+    position: relative;
+    top: 45px;
+    left: -70px;
+}
+.text-round-three span{
+    font-size: small;
+    text-align: center;
+    
+}
+.text-round-three svg{
+    position: relative;
+    top: -20px;
+    left: 62px;
+}

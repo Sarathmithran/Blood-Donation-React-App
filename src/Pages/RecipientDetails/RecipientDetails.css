@@ -1,0 +1,11 @@
+.gradient{
+    Width:450px;
+    Height:600px
+}
+.recipient-main{
+    box-shadow: 0px 0px 80px -20px #DCDCDC;
+    border-radius: 8px;
+}
+button:hover .arrow path {
+    stroke: white;
+}

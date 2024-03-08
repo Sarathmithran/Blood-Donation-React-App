@@ -1,0 +1,45 @@
+.get-start{
+    Width:213px;
+    Height:29px;
+    color: white;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28.64px;
+}
+.donate-btn{
+    width: 140px;
+}
+.get-start-div{
+    border-bottom:1px solid rgb(255, 255, 255,0.2);
+}
+.subs{
+    Width:165px;
+    Height:58px;
+    color: white;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 28.64px;
+}
+.subs-input{
+    background-color: #D40C0C;
+    outline: none !important;
+}
+.subs-input::placeholder {
+    color: lightgray;
+}
+  .subs-input:focus {
+    color: lightgray;
+  }
+.col-3 ul {
+    list-style-type: none;
+    color: white;
+}
+.li-header{
+    color: rgb(230, 227, 227);
+    margin-bottom: 10px;
+}
+.mail-btn{
+    cursor: pointer;
+    padding: 4px 10px 4px 10px;
+    background-color:#FFD2DD;
+}
